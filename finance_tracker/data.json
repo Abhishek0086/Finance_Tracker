@@ -1,0 +1,9 @@
+[
+    {
+        "UserName": "Abhi",
+        "Income": 5000.0,
+        "Expense": 1000.0,
+        "Balance": 4000.0,
+        "Category": "food"
+    }
+]
